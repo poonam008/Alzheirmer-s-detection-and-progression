@@ -1,1 +1,1 @@
-# Alzheirmer-s-detection-and-progression
+# Alzheirmer's Disease-Detection-and-Progression
